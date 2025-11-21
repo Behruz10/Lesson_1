@@ -1,0 +1,11 @@
+table{
+    width: 130px;
+    height: 250px;
+    border: 5px solid red;
+}
+body{
+    background-color: yellow;
+}
+tr,th,td{
+    border: 3px solid rgb(0, 97, 57)
+}
